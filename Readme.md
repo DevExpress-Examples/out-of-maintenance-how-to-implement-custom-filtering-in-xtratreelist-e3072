@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XtraTreeListCustomFiltering/Form1.cs) (VB: [Form1.vb](./VB/XtraTreeListCustomFiltering/Form1.vb))
+* [Program.cs](./CS/XtraTreeListCustomFiltering/Program.cs) (VB: [Program.vb](./VB/XtraTreeListCustomFiltering/Program.vb))
+<!-- default file list end -->
 # How to implement custom filtering in XtraTreeList
 
 
